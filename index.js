@@ -1,0 +1,10 @@
+const meuNome = "Isabeli";
+const idade = 18;
+const altura = 1.53;
+const peso = 58;
+const cidade = "São José dos Pinhais";
+console.log(meuNome);
+console.log(idade);
+console.log(altura);
+console.log(peso);
+console.log(cidade);
